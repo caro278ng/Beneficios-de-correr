@@ -1,0 +1,132 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.correr.com" resolutions="1x" timestamp="1508599695155">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="index.css" crc="3809147163" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="the-chemical-brothers---wide-open-(feat.-beck).mp3" crc="137875201" seo="true" mt="1508450399000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u3377-7.png" crc="3819497488" ref="index"/>
+    <file name="paisaje2.jpg" crc="3781911963" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="p2-01.png" crc="475273319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paisajecolores.jpg" crc="3911978909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="mujer2-01.png" crc="3811664694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corredor.png" crc="3960022217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perro-corriendo-54697.gif" crc="493252465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondorojo-01-01-u9235-fr.png" crc="4273296693" ref="index"/>
+    <file name="calent1.jpg" crc="3759890833" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calent2.jpg" crc="523871314" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calent3.jpg" crc="3992747146" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calent4.jpg" crc="4205489359" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calent5.jpg" crc="4068035064" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correr2-crop-u10667.png" crc="300811667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pulsera.png" crc="405131199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audifonos_dorados.png" crc="190848617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-01.png" crc="225721908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ropa-01.png" crc="4032859643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pantaloneta-01.png" crc="3991013893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tennis-01.png" crc="3841853304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax01.jpg" crc="34985136" ref="index"/>
+    <file name="parallax02.png" crc="4292061848" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax033.png" crc="189297112" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax04.png" crc="4237923851" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax05.png" crc="3799306265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax06.png" crc="3761042713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax07.png" crc="46343077" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax08.png" crc="114389636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax09.png" crc="124972293" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3409-4.png" crc="4134057144" ref="index"/>
+    <file name="20171012_170839.gif" crc="4084672605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7575-4.png" crc="71865090" ref="index"/>
+    <file name="u9329-4.png" crc="398059896" ref="index"/>
+    <file name="u11437-4.png" crc="4210401141" ref="index"/>
+    <file name="u12091-4.png" crc="4102461468" ref="index"/>
+    <file name="u12094-4.png" crc="212475023" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4119054316" seo="true" mt="1508597759619" redirect="true"/>
+</manifest>
